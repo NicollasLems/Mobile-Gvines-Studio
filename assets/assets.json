@@ -1,0 +1,32 @@
+[
+    {
+        "fase":"img/fase1.png",
+        "nomef": "Santuário Partido - Sanctuarium Fractum",
+        "descricaof": "O templo possui detalhes de arquitetura grega como colunas adornadas e uma sensação de vazio melancólico trazido pela dor do luto que Kibo sente pela sua falecida mãe estagnado no ambiente. No centro do templo, é possível observar uma estátua de uma mulher, a estátua inacabada da antiga Sacerdotisa e também sua mãe, Nessa."
+    },
+    {
+        "fase":"img/fase2.png",
+        "nomef": "Mar dos Colossus - Mare Colossi",
+        "descricaof": "O Mare Colossi se passa em uma grande extensão de águas, outrora tomada por pescadores e capitães responsáveis pela travessia de uma ilha a outra, porém, agora o mar tornou-se escuro e estranhamente mais profundo, contendo seres de sombras semelhantes a peixes. Também é possível observar um céu dividido em parte dia e parte noite, como se estivesse tentando subjugar o outro."
+    },
+    {
+        "fase":"img/fase3.png",
+        "nomef": "Reminiscência Nostálgica - Reminiscentia Nostalgica",
+        "descricaof": "Após chegar à ilha, o jogador adentra na floresta de Reminiscentia Nostalgica. O clima é tenso e sombrio, mas ainda com certa beleza da floresta. Algumas árvores parecem saudáveis e outras com formatos mais estranhos como se tivessem sua vida “retirada”. Na floresta agora tem pequenas criaturas que apesar de seu tamanho, tem poder para criar redemoinhos altamente destrutivos no local, eles são os responsáveis por deixar a flora com o aspecto morto por se alimentarem da vitalidade dela."
+    },
+    {
+        "fase":"img/fase4.png",
+        "nomef": "Ruínas dos Desesperados - Ruinae Desperatorum",
+        "descricaof": "O que parece ter restado de uma vila próspera, agora caindo aos pedaços e com claras marcas de fuga, algumas passagens fechadas por pedras e pilares prestes a desabar. O lugar é protegido por um golem formado a partir dos escombros das ruínas e pelas sombras."
+    },
+    {
+        "fase":"img/fase5.png",
+        "nomef": "Templo do Sol Inquieto - Templum Solis Inquiet",
+        "descricaof": "Um lugar que antes exalava luxo e respeito, o templo seria em cima de uma montanha e teria uma estrutura mais esbelta, porém, agora desgastada devido a falta de cuidado, ali é a casa de Loxus Kham, o Deus do Sol e também pai de Kibo."
+    },
+    {
+        "fase":"img/fase6.png",
+        "nomef": "Casa do Sol - Domus Solis",
+        "descricaof": "O ambiente é como uma redoma onde no centro possui o Sol, algo mais representativo do que está no céu. O lugar que deveria ser quente e bem iluminado tem na verdade um ar sombrio e o Sol nem mesmo brilha, como se fosse uma lâmpada apagada. Lá é onde Serpente Flagela, aquele que tem infectado o Sol, o espera pela luta definitiva a fim de decidir o fim da luz no mundo ou a descensão das trevas de volta para o fundo do mar."
+    }
+]
