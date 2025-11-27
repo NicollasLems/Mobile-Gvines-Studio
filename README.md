@@ -10,11 +10,14 @@ Um projeto feito de um aplicativo mobile pelo Flutter utilizando o dart, esse pr
 - Sabrina Caetano Nascimento
 
 # Sumário
-
-[Home](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki)
-
-[Telas](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki/Telas)
-
-- [Cada tela](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki/Telas#cada-tela)
-
-- [Vídeo](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki/Telas#v%C3%ADdeo)
+>1. [Home](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki)
+>
+>2. [Telas](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki/Telas)<br>
+> 2.1[Tela main](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki/Telas#tela-main)<br>
+> 2.2[Tela sobre o jogo](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki/Telas#tela-sobre-o-jogo)<br>
+> 2.2[Tela personagens](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki/Telas#tela-personagens)<br>
+> 2.2[Tela cenários](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki/Telas#tela-cen%C3%A1rios)<br>
+> 2.2[Tela empresa](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki/Telas#tela-empresa)<br>
+> 2.2[Tela info](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki/Telas#tela-info)<br>
+>
+>3. [Vídeo](https://github.com/NicollasLems/Mobile-Gvines-Studio/wiki/Telas#v%C3%ADdeo)
